@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+BzodeViewTool::Renderer.copyright 'bZode Technologies', "The ceiling can't hold us, so please don't take my content"
+```
 
 ## Development
 
